@@ -80,8 +80,8 @@ AUTHENTICATION_BACKENDS = ( 'social_core.backends.open_id.OpenIdAuth',
 
 
 WSGI_APPLICATION = 'Social.wsgi.application'
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY ='120273353168-shs3ddta879qporabkaa33id6ln0jk7p.apps.googleusercontent.com'
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'l0RIkLMo2cD6eGp_nN8oep88'
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY =''
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = ''
 
 # Database
 # https://docs.djangoproject.com/en/1.10/ref/settings/#databases
